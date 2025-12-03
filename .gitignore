@@ -1,3 +1,7 @@
+*.pth
+__pycache__/
+.venv/
+.env
 # Ignore specific IndoELECTRA notebook files
 IndoELECTRA_VerIII.ipynb
 IndoELECTRA_VerIV.ipynb
