@@ -1,4 +1,4 @@
-# Named Entity Recognition using IndoELECTRA
+# Named Entity Recognition using IndoELECTRA & IndoBERT
 
 Tugas Besar Natural Language Processing - Named Entity Recognition untuk Bahasa Indonesia menggunakan model IndoELECTRA dan IndoBERT
 
@@ -8,15 +8,16 @@ Tugas Besar Natural Language Processing - Named Entity Recognition untuk Bahasa 
 | -------------------------- | --------- |
 | Rayhan Fatih Gunawan       | 122140134 |
 | Elsa Elisa Yohana Sianturi | 122140135 |
-| NASHWA PUTRI LAISYA        | 122140180 |
-| ANISA FITRIYANI            | 122450019 |
-| SITI NUR AARIFAH           | 122450006 |
-| MUHAMMAD NELWAN FAKHRI     | 122140173 |
-| RADITYA ERZA FARANDI       | 122140209 |
+| Muhammad Nelwan Fakhri     | 122140173 |
+| Nashwa Putri Laisya        | 122140180 |
+| Raditya Erza Farandi       | 122140209 |
+| Siti Nur Aarifah           | 122450006 |
+| Anisa Fitriyani            | 122450019 |
+
 
 ## Deskripsi Project
 
-Project ini mengimplementasikan Named Entity Recognition (NER) untuk Bahasa Indonesia menggunakan model **IndoELECTRA** (Efficiently Learning an Encoder that Classifies Token Replacements Accurately) dan IndoBERT IndoELECTRA dan IndoBERT adalah model pre-trained language model yang dioptimalkan untuk bahasa Indonesia, menggunakan arsitektur ELECTRA yang lebih efisien dibandingkan BERT dalam hal computational cost.
+Project ini mengimplementasikan Named Entity Recognition (NER) untuk Bahasa Indonesia menggunakan model **IndoELECTRA** (Efficiently Learning an Encoder that Classifies Token Replacements Accurately) dan IndoBERT. IndoELECTRA dan IndoBERT adalah model pre-trained language model yang dioptimalkan untuk bahasa Indonesia, menggunakan arsitektur ELECTRA yang lebih efisien dibandingkan BERT dalam hal computational cost.
 
 ### Model: IndoELECTRA
 
